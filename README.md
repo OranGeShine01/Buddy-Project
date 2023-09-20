@@ -10,9 +10,6 @@ KH Final Project
 **진행기간**
 
 2022.12.12 ~ 2022.01.05
-
-(이후에도 개별적인 수정 진행중)
-
  
 
 **기술 스택**
@@ -71,6 +68,8 @@ Zandi
 ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzSGxm%2FbtrVTUbZbtW%2FyGkqj9vgKSVkLDAQUda3Yk%2Fimg.png)
 
 ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FswE3o%2FbtrVP9gAmXw%2FdsUKx5k0fIkBdfvd1gy1Kk%2Fimg.png)
+
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FH1gxn%2FbtrVRDaxECZ%2F84urXHWg8YSc10adh4ejkK%2Fimg.png)
 
 ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxhKtF%2FbtrVStr67Hb%2FlbiL6PLtHsz3e5wZc772KK%2Fimg.png)
 
